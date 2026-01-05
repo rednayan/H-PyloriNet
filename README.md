@@ -63,8 +63,9 @@ We sincerely thank **LABOKLIN** for providing the dataset and ground truth label
 ## **Citation**
 
 If you use this code or methodology, please cite:  
-@article{HPyloriNet2024,  
-  title={A Computer-Aided Detection System for Helicobacter Pylori in Gastric Biopsy Slides},  
-  author={Nayan Sharma, Omer Ahmed, Zeyi Lu},  
-  year={2024}  
-}  
+```bibtex
+@article{HPyloriNet2024,
+  title={A Computer-Aided Detection System for Helicobacter Pylori in Gastric Biopsy Slides},
+  author={Nayan Sharma, Omer Ahmed, Zeyi Lu},
+  year={2024}
+}
