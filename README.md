@@ -46,7 +46,7 @@ The research was conducted on 22 WSIs at 40x magnification. The following prepro
    * *Detection:* Sliding window extraction.  
 3. **Normalization:** Patches normalized using ImageNet statistics.
 
-## ** Results**
+## **Results**
 
 Performance was evaluated on a stratified test split of 7 slides.
 
