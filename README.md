@@ -5,7 +5,7 @@ The system implements and evaluates two distinct approaches: **Classification** 
 
 ## **Code Availability & Privacy Notice**
 
-**Please Note:** Due to privacy regulations and agreements with our clinical partner (**LABOKLIN**), the **training code and the full dataset cannot be made publicly available**.  
+**Please Note:** Due to privacy regulations and agreements with our clinical partner [LABOKLIN](https://laboklin.com/en/), the **training code and the full dataset cannot be made publicly available**.  
 This repository contains only the **inference pipeline**, designed to run predictions on new or sample histology slides. It demonstrates the region extraction, segmentation, and detection logic described in our research.
 
 ## **Project Overview**
